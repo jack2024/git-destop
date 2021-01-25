@@ -3,9 +3,9 @@ void show(char a)
 {
 	printf("%c",a);
 }
-int i;
+int count;
 void main(void) 
 {
 	show('z');
-	i++;
+	count++;
 }
