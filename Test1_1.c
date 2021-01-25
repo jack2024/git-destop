@@ -6,6 +6,9 @@ void show(char a)
 int count;
 void main(void) 
 {
-	show('z');
-	count++;
+	while(1)
+	{
+		show('z');
+		count++;
+	}
 }
